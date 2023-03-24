@@ -1,4 +1,4 @@
-# User_Management-System ![alt text](https://img.shields.io/badge/License-MIT-blue.svg)
+# User-Management-System ![alt text](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description:
 
